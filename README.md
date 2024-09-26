@@ -1,1 +1,1 @@
-Preparation of US Census Tracts data to analyse inequality of income, health and education
+Preparation of US Census Tracts data to analyse inequality in multiple dimensions (income, health and education)
